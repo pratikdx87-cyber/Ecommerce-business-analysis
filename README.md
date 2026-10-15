@@ -3,46 +3,108 @@ E-Commerce Business Analysis &amp; Customer Insights using SQL and Power BI | Sa
 
 E-Commerce Business Analysis & Customer Insights
 
-Project Overview
+📌 About the Project
 
-This portfolio project analyzes e-commerce business performance using SQL and Power BI. It focuses on sales, revenue, profitability, order status, and customer metrics through SQL queries and an interactive dashboard.
+This project explores e-commerce business performance using SQL and Microsoft Power BI. It focuses on analyzing sales performance, revenue trends, profitability, customer metrics, and order status to present business information in a clear and interactive format.
 
-Tools & Technologies
+The goal is to transform raw data into meaningful insights that can support data-driven business decisions.
 
-SQL — Data analysis and business queries
+🎯 Project Objectives
 
-Microsoft Power BI — Interactive dashboard and data visualization
+Analyze key e-commerce business performance metrics.
 
-Key Analysis Areas
+Explore revenue and profit across product categories.
 
-Total Revenue
+Understand monthly revenue trends.
 
-Total Orders
+Track customer and order-related metrics.
 
-Total Customers
+Build an interactive Power BI dashboard for business analysis.
 
-Average Order Value (AOV)
+🛠️ Tools & Technologies
 
-Profit Margin
-
-Monthly Revenue Trends
-
-Revenue by Category
-
-Profit by Category
-
-Order Status Distribution
-
-Project Files
-
-ecommerce_analysis.sql — SQL analysis queries
-
-Power BI .pbix file — Interactive dashboard
+Tool
 
 Purpose
 
-The goal of this project is to practice SQL-based business analysis and communicate key business metrics through an interactive Power BI dashboard.
+SQL
 
-Data Disclaimer
+Querying data and performing business analysis
+
+Microsoft Power BI
+
+Dashboard development and visualization
+
+Data Visualization
+
+Presenting key metrics and trends
+
+📊 Key Performance Indicators (KPIs)
+
+💰 Total Revenue — Overall revenue performance
+
+📦 Total Orders — Number of orders
+
+👥 Total Customers — Customer count
+
+🧾 Average Order Value (AOV) — Average revenue per order
+
+📈 Profit Margin % — Profitability metric
+
+📈 Dashboard Highlights
+
+Monthly Revenue Trend — Track revenue over time.
+
+Revenue by Category — Compare revenue across categories.
+
+Profit by Category — Analyze category-level profitability.
+
+Order Status Distribution — Explore the distribution of order statuses.
+
+KPI Cards — View important business metrics at a glance.
+
+🗂️ Repository Structure
+
+ecommerce-business-analysis/
+│
+├── ecommerce_analysis.sql
+├── E-Commerce Business Analysis Dashboard.pbix
+├── README.md
+└── screenshots/
+    └── dashboard.png
+
+The filenames shown above are examples; adjust them to match the files in this repository.
+
+💡 Skills Demonstrated
+
+SQL querying and business data analysis
+
+KPI interpretation
+
+Power BI dashboard development
+
+Data visualization
+
+Communicating business metrics
+
+📷 Dashboard Preview
+
+The dashboard screenshot will be added here.
+
+<!-- Add your screenshot after uploading it to the screenshots folder -->
+
+<!-- ![Power BI Dashboard](screenshots/dashboard.png) -->
+
+📁 Project Files
+
+SQL Analysis: ecommerce_analysis.sql
+
+Power BI Dashboard: Open the .pbix file using Microsoft Power BI Desktop.
+
+⚠️ Data Disclaimer
 
 This is a learning and portfolio project. The dataset is used for practice and does not represent verified real-world company performance.
+
+
+
+
